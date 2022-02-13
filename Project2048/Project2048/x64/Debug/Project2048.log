@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(88,25): warning C4566: character represented by universal-character-name '\u534E' cannot be represented in the current code page (1252)
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(88,25): warning C4566: character represented by universal-character-name '\u6587' cannot be represented in the current code page (1252)
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(88,25): warning C4566: character represented by universal-character-name '\u65B0' cannot be represented in the current code page (1252)
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(88,25): warning C4566: character represented by universal-character-name '\u9B4F' cannot be represented in the current code page (1252)
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(90,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\Project2048\main.cpp(271,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2048.vcxproj -> C:\Users\cecil\OneDrive\Document\Cecil Science\C++Code\C++ Gaming\Project2048\x64\Debug\Project2048.exe
